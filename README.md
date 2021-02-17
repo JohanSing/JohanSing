@@ -9,10 +9,10 @@
 
 Hi, I'm Johan Sing, a passionate self-taught fullstack web developer from Paris.
 
-- 🔭 I’m currently working on a application to organize your futures parties with friends (QRQ)
-- 🌱 I’m currently deep learning Django Rest Framework
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/johansing/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/johansing/johansing/issues)
+- 🔭  I’m currently working on a application to organize your futures parties with friends (QRQ)
+- 🌱  I’m currently deep learning Django Rest Framework
+- 👯  I’m looking to collaborate on [Github Readme Stats](https://github.com/johansing/github-readme-stats)
+- 💬  Ask me about anything [here](https://github.com/johansing/johansing/issues)
 
 **Languages and Tools:**
 
