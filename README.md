@@ -29,9 +29,9 @@ Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 
 <div align="center" style="background:#414a50; padding: 25px 0;">
     <a href="https://twitter.com/johansingainy">
-        <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" width="20px" alt="Follow me on Twitter ">
+        <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" alt="Follow me on Twitter ">
     </a>
     <a href="https://www.linkedin.com/in/johan-singainy-moutiapin/">
-        <img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="20px" alt="Connect on Linkedin">
+        <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Connect on Linkedin">
     </a>
 </div>
