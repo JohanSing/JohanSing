@@ -1,10 +1,10 @@
 ### Hi there, I'm Johan 👋
 
 <a href="https://twitter.com/johansingainy">
-  <img align="left" alt="Johan Sing | Twitter" width="21px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" />
+  <img align="left" alt="Johan Sing | Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/johan-singainy-moutiapin/">
-  <img align="left" alt="Johan Sing | Linkedin" width="21px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="Johan Sing | Linkedin" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 
 <br />
@@ -15,7 +15,7 @@ Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 - 🚀 &nbsp;I’m working on my first business **Enno**, I build a SAAS product to match owners and tenants.
 - 🔭 &nbsp;On side-project, I’m developing a application to organize your futures parties with friends (QRQ).
 - 🌱 &nbsp;These two projects allow me to learn deeply about the Django Rest Framework.
-- 💬 &nbsp;Ask me about anything [here](https://github.com/johansing/johansing/issues)
+- 💬 &nbsp;Ask me about anything [here](https://github.com/johansing/johansing/issues).
 
 ### Languages
 
