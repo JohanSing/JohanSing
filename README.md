@@ -27,5 +27,5 @@ Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=888)&nbsp;
 
