@@ -26,7 +26,6 @@ Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&logoColor=4FC08D)&nbsp;
 
-<br />
 
 ### 📲 &nbsp; Where to find me :
 
