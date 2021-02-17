@@ -27,9 +27,8 @@ Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&logoColor=4FC08D)&nbsp;
 
 <br />
-<br />
 
-📲 &nbsp; Find me on this social networks
+📲 &nbsp; Find me on this socials networks
 
 
 <a href="https://twitter.com/johansingainy">
