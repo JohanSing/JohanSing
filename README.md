@@ -1,5 +1,13 @@
 ### Hi there, I'm Johan 👋
 
+<a href="https://twitter.com/johansingainy">
+  <img align="left" alt="Johan Sing | Twitter" width="20px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" />
+</a>
+<a href="https://www.linkedin.com/in/johan-singainy-moutiapin/">
+  <img align="left" alt="Johan Sing | Linkedin" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+</a>
+
+<br />
 <br />
 
 Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
@@ -25,14 +33,3 @@ Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&logoColor=4FC08D)&nbsp;
-
-
-### 📲 &nbsp; Where to find me :
-
-
-<a href="https://twitter.com/johansingainy">
-  <img align="left" alt="Johan Sing | Twitter" width="20px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" />
-</a>
-<a href="https://www.linkedin.com/in/johan-singainy-moutiapin/">
-  <img align="left" alt="Johan Sing | Linkedin" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-</a>
