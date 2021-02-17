@@ -1,5 +1,10 @@
 ### Hi there, I'm Johan 👋
 
+### 👨🏻‍💻 &nbsp;About Me
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johan-singainy-moutiapin/)](https://www.linkedin.com/in/johan-singainy-moutiapin/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/johansingainy/)](https://twitter.com/johansingainy/)
+
 Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 
 - 🚀 &nbsp;I’m working on my first business **Enno**, I build a SAAS product to match owners and tenants.
@@ -23,15 +28,3 @@ Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=Vue.js&logoColor=4FC08D)&nbsp;
-
-<br />
-<br />
-
-<div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="https://twitter.com/johansingainy">
-        <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" alt="Follow me on Twitter ">
-    </a>
-    <a href="https://www.linkedin.com/in/johan-singainy-moutiapin/">
-        <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Connect on Linkedin">
-    </a>
-</div>
