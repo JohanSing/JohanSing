@@ -18,14 +18,15 @@ Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=ddc508)&nbsp;
 
 ### Technologies
 
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)&nbsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=888)&nbsp;
-
+![CI/CD](https://img.shields.io/badge/-CI%2FCD--05122A?style=flat&logo=CircleCI&logoColor=888)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
