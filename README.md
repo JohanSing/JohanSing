@@ -12,9 +12,9 @@
 
 Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 
-- 🔭&nbsp;I’m currently working on a application to organize your futures parties with friends (QRQ)
-- 🌱&nbsp;I’m currently deep learning Django Rest Framework
-- 💬&nbsp;Ask me about anything [here](https://github.com/johansing/johansing/issues)
+- 🔭 &nbsp;I’m currently working on a application to organize your futures parties with friends (QRQ)
+- 🌱 &nbsp;I’m currently deep learning Django Rest Framework
+- 💬 &nbsp;Ask me about anything [here](https://github.com/johansing/johansing/issues)
 
 ### Languages
 
