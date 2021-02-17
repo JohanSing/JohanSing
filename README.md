@@ -1,7 +1,7 @@
 ### Hi there, I'm Johan 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johan-singainy-moutiapin/)](https://www.linkedin.com/in/johan-singainy-moutiapin/)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/johansingainy/)](https://twitter.com/johansingainy/)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/johan-singainy-moutiapin/)
+![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/johansingainy/)
 
 Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 
