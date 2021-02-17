@@ -1,7 +1,6 @@
 ### Hi there, I'm Johan 👋
 
 <br />
-<br />
 
 Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 
@@ -32,8 +31,6 @@ Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 
 📲 &nbsp; Find me on this social networks
 
-<br />
-<br />
 
 <a href="https://twitter.com/johansingainy">
   <img align="left" alt="Johan Sing | Twitter" width="20px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1259px-Twitter_Bird.svg.png" />
