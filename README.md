@@ -18,9 +18,8 @@ Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 
 ### Languages
 
-[Python](https://img.shields.io/badge/-Python-000?&logo=python)
-[JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
-[PHP](https://img.shields.io/badge/-PHP-000?&logo=php%2b%2b&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)&nbsp;
 
 ### Technologies
 
