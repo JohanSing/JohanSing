@@ -5,7 +5,7 @@
 
 Hi, I'm Johan Sing, a passionate Software Engineer from Paris.
 
-- 🚀 &nbsp;I’m working on my first business **Enno**, I build a SAAS product to match owners and tenants.
+- 🚀 &nbsp;I’m currently working on my first business **Enno**, I build a SAAS product to match owners and tenants.
 - 🔭 &nbsp;On side-project, I’m developing a application to organize your futures parties with friends (QRQ).
 - 🌱 &nbsp;These two projects allow me to learn deeply about the Django Rest Framework.
 - 💬 &nbsp;Ask me about anything [here](https://github.com/johansing/johansing/issues).
