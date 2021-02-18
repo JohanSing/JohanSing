@@ -8,7 +8,7 @@ I'm a passionate Software Engineer from Paris.
 - 🚀 &nbsp;I’m currently working on my first business **Enno**, I build a SAAS product to match owners and tenants.
 - 🔭 &nbsp;On side-project, I’m developing a application to organize your futures parties with friends (QRQ).
 - 🌱 &nbsp;These two projects allow me to learn deeply about the Django Rest Framework.
-- 💬 &nbsp;Ask me about anything [here](https://github.com/johansing/johansing/issues).
+- 💬 &nbsp;Ask me about anything [here](https://github.com/JohanSing/JohanSing/discussions/1).
 
 ### Back-end
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)&nbsp;
