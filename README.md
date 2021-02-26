@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/johan-singainy-moutiapin/)](https://www.linkedin.com/in/johan-singainy-moutiapin/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/johansingainy/)](https://twitter.com/johansingainy/)
 
-I'm a passionate Software Engineer from Paris.
+I'm a passionate software engineer from Paris.
 
 - 🚀 &nbsp;I’m currently working on my first business **Enno**, I build a SAAS product to match owners and tenants.
 - 🔭 &nbsp;On side-project, I’m developing a application to organize your futures parties with friends (QRQ).
