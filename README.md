@@ -6,7 +6,7 @@
 I'm a passionate software engineer from Paris.
 
 - 🚀 &nbsp;I'm currently working at Yogosha (Private Bug Bounty Platform) as a full stack developer.
-- 🔭 &nbsp;On side-project, I’m developing a application to organize your futures parties with friends (QRQ).
+- 🔭 &nbsp;On side-project, I'm developing an application to organise parties with friends (QRQ).
 - 🌱 &nbsp;My side-project allow me to learn deeply about the Django Rest Framework.
 - 💬 &nbsp;Ask me about anything [here](https://github.com/JohanSing/JohanSing/discussions/1).
 
