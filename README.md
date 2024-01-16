@@ -5,9 +5,9 @@
 
 I'm a passionate software engineer from Paris.
 
-- 🚀 &nbsp;I'm currently working at Yogosha (Vulnerability Operation Center) as a full stack developer.
+- 🚀 &nbsp;I'm currently working at Qobra as a full stack developer.
 - 🔭 &nbsp;On side-project, I'm developing an application to organise parties with friends (QRQ).
-- 🌱 &nbsp;My side-project allow me to learn deeply about the Django Rest Framework.
+- 🌱 &nbsp;My side-project allow me to learn deeply about the FastAPI Framework.
 - 💬 &nbsp;Ask me about anything [here](https://github.com/JohanSing/JohanSing/discussions/1).
 
 ### Back-end
@@ -15,6 +15,7 @@ I'm a passionate software engineer from Paris.
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=777BB4)&nbsp;
 <br />
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flast&logo=fastapi&logoColor=479789)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony&logoColor=DBE2E4)&nbsp;
 
 ### Front-end
@@ -25,6 +26,7 @@ I'm a passionate software engineer from Paris.
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=4479A1)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=51A038)&nbsp;
 
 ### Tools
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=2496ED)&nbsp;
